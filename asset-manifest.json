@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fa931580.chunk.css",
+    "main.js": "/static/js/main.e6232590.chunk.js",
+    "main.js.map": "/static/js/main.e6232590.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.600e8827.js",
+    "runtime-main.js.map": "/static/js/runtime-main.600e8827.js.map",
+    "static/css/2.d65fdcc0.chunk.css": "/static/css/2.d65fdcc0.chunk.css",
+    "static/js/2.54a3c74c.chunk.js": "/static/js/2.54a3c74c.chunk.js",
+    "static/js/2.54a3c74c.chunk.js.map": "/static/js/2.54a3c74c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.d65fdcc0.chunk.css.map": "/static/css/2.d65fdcc0.chunk.css.map",
+    "static/css/main.fa931580.chunk.css.map": "/static/css/main.fa931580.chunk.css.map",
+    "static/js/2.54a3c74c.chunk.js.LICENSE.txt": "/static/js/2.54a3c74c.chunk.js.LICENSE.txt",
+    "static/media/amoeba.0d7c4db9.jpg": "/static/media/amoeba.0d7c4db9.jpg",
+    "static/media/betasite.9a2c06ba.png": "/static/media/betasite.9a2c06ba.png",
+    "static/media/carrace.e174fe7c.png": "/static/media/carrace.e174fe7c.png",
+    "static/media/discord-bot-beast.2a22e1f6.jpg": "/static/media/discord-bot-beast.2a22e1f6.jpg",
+    "static/media/error.63f05b0d.png": "/static/media/error.63f05b0d.png",
+    "static/media/first-website.1fc2a6da.jpg": "/static/media/first-website.1fc2a6da.jpg",
+    "static/media/logo.263af0dd.png": "/static/media/logo.263af0dd.png",
+    "static/media/mothersday_image.2967b3a4.png": "/static/media/mothersday_image.2967b3a4.png",
+    "static/media/tambola.7d3546b5.jpg": "/static/media/tambola.7d3546b5.jpg",
+    "static/media/ttt.f82a5410.jpg": "/static/media/ttt.f82a5410.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.600e8827.js",
+    "static/css/2.d65fdcc0.chunk.css",
+    "static/js/2.54a3c74c.chunk.js",
+    "static/css/main.fa931580.chunk.css",
+    "static/js/main.e6232590.chunk.js"
+  ]
+}
